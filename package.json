@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Hamza7661/cors-anywhere-proxy/issues"
   },
-  "homepage": "https://github.com/Hamza7661/cors-anywhere-proxy#readme"
+  "homepage": "https://github.com/Hamza7661/cors-anywhere-proxy#readme",
+  "dependencies": {
+    "cors-anywhere": "^0.4.4"
+  }
 }
